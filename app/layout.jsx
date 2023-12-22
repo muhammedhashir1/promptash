@@ -1,5 +1,5 @@
-import Nav from "@/components/Nav";
-import Provider from "@/components/Provider";
+import Nav from "@components/Nav";
+import Provider from "@components/Provider";
 import "./globals.css";
 
 export const metadata = {
